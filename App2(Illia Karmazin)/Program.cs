@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static App2_Illia_Karmazin_.Program;
 
 namespace App2_Illia_Karmazin_
 {
